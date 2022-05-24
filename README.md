@@ -1,4 +1,4 @@
 # Candy-Analysis
 
 Logistic Regression
-Correlataion Map
+Correlation Map
